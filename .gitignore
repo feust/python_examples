@@ -1,0 +1,10 @@
+# pycharm
+/.idea/
+/data
+*.pyc
+
+# virtual envirement
+/venv/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
