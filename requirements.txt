@@ -1,5 +1,5 @@
 seaborn
 jupyterlab
-hvplot
-dash
 sympy
+lightgbm
+shap
