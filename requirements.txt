@@ -3,3 +3,6 @@ jupyterlab
 sympy
 lightgbm
 shap
+hyperopt
+numpy
+scikit-learn
