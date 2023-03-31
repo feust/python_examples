@@ -8,3 +8,6 @@
 
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
+
+# image
+/imgs/
