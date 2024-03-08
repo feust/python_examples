@@ -1,0 +1,16 @@
+name: python_experiments
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - sympy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - seaborn
+  - conda-forge::lightgbm
+  - scikit-survival
+  - conda-forge::hyperopt
+  - conda-forge::shapely
+prefix: /home/feust/miniconda3/envs/python_experiments
