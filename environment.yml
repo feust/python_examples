@@ -2,15 +2,16 @@ name: python_experiments
 channels:
   - defaults
 dependencies:
-  - python=3.11
-  - jupyterlab
-  - sympy
-  - matplotlib
-  - pandas
   - scikit-learn
-  - seaborn
+  - matplotlib
   - conda-forge::lightgbm
+  - seaborn
+  - jupyterlab
   - scikit-survival
   - conda-forge::hyperopt
+  - pandas
   - conda-forge::shapely
-prefix: /home/feust/miniconda3/envs/python_experiments
+  - sympy
+  - python=3.11
+  - shap
+prefix: /Users/felixjust/anaconda3/envs/python_experiments
