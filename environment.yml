@@ -14,4 +14,6 @@ dependencies:
   - sympy
   - python=3.11
   - shap
+  - conda-forge::interpret
+  - conda-forge::xgboost
 prefix: /Users/felixjust/anaconda3/envs/python_experiments
